@@ -89,5 +89,4 @@ card = ttk.Frame(root, style='Card.TFrame', padding=(5, 6, 7, 8))
 
 
 Se você chegou até aqui, por favor, dê uma olhada nos meus outros temas!
-- [](https://github.com/rdbende/Sun-Valley-ttk-theme) Um tema que se parece com o Windows 11!
 - [](https://github.com/rdbende/Forest-ttk-theme) Um tema inspirado no visual do Excel.

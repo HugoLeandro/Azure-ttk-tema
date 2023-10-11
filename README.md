@@ -1,4 +1,4 @@
-# Azure theme for ttk
+# Temas Azure para ttk
 
 ![Screenshot of the Azure theme](screenshot.png)
 

@@ -3,7 +3,7 @@
 ![Screenshot of the Azure theme](screenshot.png)
 
 ## Como usar?
-Assim como no meu tema Sun Valley na versão 2.0, eu queria tornar o uso do tema muito simples, então a configuração do tema é tratada por um script tcl separado.
+Eu queria tornar o uso do tema muito simples, então a configuração do tema é tratada por um script tcl separado.
 Dessa forma, seja você querendo usar um tema escuro ou claro, você só precisa importar um único arquivo. Outra coisa que torna essa uma boa solução é que normalmente a troca entre temas claro e escuro não é totalmente perfeita, e as cores não estão corretas.
 
 ```python
